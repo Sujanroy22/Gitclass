@@ -14,5 +14,15 @@ public class GitClassOne
 	{
 		System.out.println(3);
 	}
+	private void tamilNadu() 
+	{
+		System.out.println("Tamil");
+	}
+	private void kerala() {
+	System.out.println("Malayalam");
+	}
+	private void maharashtra() {
+	System.out.println("Marathi");
+	}
 
 }
